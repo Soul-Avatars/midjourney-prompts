@@ -1,6 +1,6 @@
 # midjourney-prompts
 
-All first 25 Soul-Avatars Image Model were made by [Midjourney](https://www.midjourney.com/app/)
+All first 25 Soul-Avatars Image Model were made by [Midjourney](https://www.midjourney.com/app/) and [chatgpt](https://chat.openai.com/)
 
 IPFS links of 25 Soul-Avatars Image Model  are as  follows,
 
